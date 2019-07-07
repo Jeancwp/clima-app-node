@@ -1,8 +1,8 @@
-## Aplicacion del Clima - Curso Node
+### Aplicacion del Clima - Curso Node
 
 Recurden ejecutar ```npm install``` para las librerias
 
-### Emejemplo:
+### Ejemplo:
 ```
 node app -d "Lima Peru"
 ```
